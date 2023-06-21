@@ -3,7 +3,7 @@
 
 # In[5]:
 
-pip insatll yfinance
+!pip insatll yfinance
 import streamlit as st
 import pandas as pd
 import yfinance as yf
