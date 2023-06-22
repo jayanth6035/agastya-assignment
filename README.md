@@ -1,2 +1,2 @@
 # agastya-assignment
-http://localhost:8501/
+streamlit app link : https://agastya-assignment-tknazy1mpcf.streamlit.app/
